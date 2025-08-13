@@ -12,6 +12,6 @@ pyautogui.click(button='middle')
 pyautogui.click(clicks=10)
 #funçoes prontas para click
 pyautogui.doubleClick()
-pyautogui.rightClickc()
+pyautogui.rightClick()
 pyautogui.middleClick()
 pyautogui.tripleClick()
